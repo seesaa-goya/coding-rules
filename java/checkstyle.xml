@@ -153,7 +153,7 @@
       <property name="max" value="2"/>
     </module>
     <module name="SuperClone"/>
-    <module name="IllegalCatch"/>
+    <!-- <module name="IllegalCatch"/> -->
     <module name="IllegalThrows"/>
     <module name="PackageDeclaration"/>
     <module name="ParameterAssignment"/>
